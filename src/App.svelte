@@ -5,7 +5,7 @@
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Hello world! god!!!</h1>
+  <h1>Hello world! god bless me . notice: remember to refresh the site</h1>
 
   <Counter />
 
